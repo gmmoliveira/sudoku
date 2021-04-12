@@ -70,7 +70,7 @@ The starting 3-Sudoku state:
  [0 0 0 1 0 0 0 0 0]
  [0 0 0 0 0 0 0 0 2]]
 
-A solved nSudoku state:
+A solved 3-Sudoku state:
 [[4 1 9 8 2 3 5 6 7]
  [7 2 3 5 6 1 8 4 9]
  [8 5 6 9 4 7 2 3 1]
@@ -102,7 +102,7 @@ The starting 4-Sudoku state:
  [ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0]
  [ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0]]
 
-A solved nSudoku state:
+A solved 4-Sudoku state:
 [[13  5 11  8  1  9  7 14  2  4 12  3  6 10 16 15]
  [ 1  2  7 16 11  4  3  5  6 10  8 15  9 12 13 14]
  [ 4  9  3 10  6  2 12 15  1 14 13 16 11  5  7  8]
