@@ -59,7 +59,7 @@ Builds an object which represents a <code class="inline_code">n-sudoku</code>.
 
 <br>
 <hr>
-Executing the "src/sudoku.py" file outputs:
+Executing the "src/sudoku.py" file outputs two examples:
 <br>
 
 <pre><code>
