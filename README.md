@@ -55,7 +55,10 @@ Builds an object which represents a <code class="inline_code">n-sudoku</code>.
 	<code class="inline_code">X*</code>
 	into a valid sudoku state;
 </li>
+</ul>
 
+<br>
+<br>
 Executing the "src/sudoku.py" file outputs:
 <br>
 
