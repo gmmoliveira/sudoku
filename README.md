@@ -57,9 +57,9 @@ Builds an object which represents a <code class="inline_code">n-sudoku</code>.
 </li>
 
 
-<table>
-	/Users/guilherme/miniconda3/bin/python /Users/guilherme/PycharmProjects/mmc/nsudoku.py
+<pre><code class="lang-python">
 The starting 3-Sudoku state:
+
 [[0 0 9 0 0 0 0 0 0]
  [7 0 0 5 0 0 0 0 0]
  [0 0 0 0 0 0 0 0 0]
@@ -123,4 +123,4 @@ time spent on the optimization (in milisecs) =  3147
 
 Process finished with exit code 0
 
-</table>
+<code/>
