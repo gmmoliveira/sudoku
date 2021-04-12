@@ -56,8 +56,10 @@ Builds an object which represents a <code class="inline_code">n-sudoku</code>.
 	into a valid sudoku state;
 </li>
 
+Executing the "src/sudoku.py" file outputs:
+<br>
 
-<pre><code class="lang-python">
+<pre><code>
 The starting 3-Sudoku state:
 
 [[0 0 9 0 0 0 0 0 0]
@@ -123,4 +125,4 @@ time spent on the optimization (in milisecs) =  3147
 
 Process finished with exit code 0
 
-<code/>
+</code>
