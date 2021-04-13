@@ -137,8 +137,6 @@ Process finished with exit code 0
 
 </code>
 
-Further reference may be found at
-
-<a class="footer_links" href="https://gmmoliveira.github.io/blog/sudoku.html" rel="noopener noreferrer" target="_blank">my blog</a>.
+Further reference may be found at <a class="footer_links" href="https://gmmoliveira.github.io/blog/sudoku.html" rel="noopener noreferrer" target="_blank">my blog</a>.
 
 Cheers!
