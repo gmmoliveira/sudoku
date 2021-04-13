@@ -59,7 +59,15 @@ Builds an object which represents a <code class="inline_code">n-sudoku</code>.
 
 <br>
 <hr>
-Executing the "src/sudoku.py" file outputs two examples:
+Executing the
+<code class="inline_code">src/sudoku.py</code>
+file outputs two examples, where the matrices represents the sudoku tables.
+The first table is a initial game state where number 0 represents that the corresponding
+table cell is empty, the second one refers to the same table after being solved, this goes
+for two examples: 3-sudoku and 4-sudoku. Creating sudoku games larger than
+<code class="inline_code">N=4</code>
+might increase too
+much the necessary time to compute the optimum answer.
 <br>
 
 <pre><code>
@@ -128,3 +136,9 @@ time spent on the optimization (in milisecs) =  3147
 Process finished with exit code 0
 
 </code>
+
+Further reference may be found at
+
+<a class="footer_links" href="https://gmmoliveira.github.io/blog/sudoku.html" rel="noopener noreferrer" target="_blank">my blog</a>.
+
+Cheers!
